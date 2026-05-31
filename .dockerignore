@@ -1,0 +1,12 @@
+# .dockerignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+uploads/
+*.log
+.DS_Store
+alembic/versions/__pycache__/
